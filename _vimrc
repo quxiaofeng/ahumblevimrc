@@ -40,12 +40,10 @@ set incsearch
 "Set the width of text to 70 characters.
 set textwidth=70
 
-
-
 " Tab behavior
 set expandtab
 set shiftwidth=2
-set softtabstop=2
+set softtabstop=4
 set tabstop=4
 
 set diffexpr=MyDiff()
